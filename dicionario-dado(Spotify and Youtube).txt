@@ -1,0 +1,37 @@
+Lista de Dados:
+Spotify and Youtube (https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube)
+- Title (Nome no Youtube)
+- Track (Nome no Spotify)
+- Artist
+- Views
+- Likes
+- Comments
+- Energy (0-1)
+- Danceability (0-1)
+- Loudness 
+- Speechiness (0-1)
+- Instrumentalness (0-1)
+- Valence (0-1)
+- Stream 
+- Album
+
+Artistas: 
+- Artist
+- Views
+- Likes
+- Stream 
+- Album
+
+Músicas:
+- Title (Nome no Youtube)
+- Track (Nome no Spotify)
+- Views
+- Likes
+- Comments
+- Valence (0-1)
+- Energy (0-1)
+- Danceability (0-1)
+- Loudness (dB)
+- Speechiness (0-1)
+- Instrumentalness (0-1)
+- Valence (0-1)
