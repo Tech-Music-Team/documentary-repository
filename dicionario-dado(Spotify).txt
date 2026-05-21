@@ -4,3 +4,4 @@ https://www.kaggle.com/datasets/wardabilal/spotify-global-music-dataset-20092025
 - TrackId
 - artist_popularity
 - artist_genre
+- track_popularity

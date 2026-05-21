@@ -13,20 +13,18 @@ Spotify and Youtube (https://www.kaggle.com/datasets/salvatorerastelli/spotify-a
 - Instrumentalness (0-1)
 - Valence (0-1)
 - Stream 
-- Album
 
 Artistas: 
 - Artist
 - Views
 - Likes
-- Stream 
-- Album
 
 Músicas:
 - Title (Nome no Youtube)
 - Track (Nome no Spotify)
 - Views
 - Likes
+- Stream 
 - Comments
 - Valence (0-1)
 - Energy (0-1)
@@ -34,4 +32,3 @@ Músicas:
 - Loudness (dB)
 - Speechiness (0-1)
 - Instrumentalness (0-1)
-- Valence (0-1)
